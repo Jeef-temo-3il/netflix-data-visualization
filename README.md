@@ -41,7 +41,7 @@ Clonez le dépôt GitHub sur votre machine locale :
 bash
 Copier
 Modifier
-git clone https://github.com/Jeef-temo-3il/nom-du-projet.git
+git clone https://github.com/Jeef-temo-3il//netflix-data-visualization.git
 Ouvrez le fichier .pbix avec Power BI Desktop (téléchargeable gratuitement via Microsoft).
 
 Explorez les visualisations interactives pour découvrir des insights fascinants.
